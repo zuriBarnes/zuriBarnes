@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zuri!
 - 👀 I’m interested in all things code, and tech.
-- 🌱 I’m currently studying full stack development with Node.js, and c/c++ for microcontrollers.
+- 🌱 I’m currently studying full stack development with Python, and c/c++ for microcontrollers.
 - 💞️ I enjoy learning..so yeah inquiries are welcome, thanks!!
 
 
