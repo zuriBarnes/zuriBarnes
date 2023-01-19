@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zuri!
 - 👀 I’m interested in all things code, and tech.
-- 🌱 I’m currently studying full stack development with Python, and c/c++ for microcontrollers.
+- 🌱 I’m currently studying full stack development with Python, c/c++ for microcontrollers, and Lua to bond with my son.
 - 💞️ I enjoy learning..so yeah inquiries are welcome, thanks!!
 
 
